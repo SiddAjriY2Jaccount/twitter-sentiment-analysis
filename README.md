@@ -1,2 +1,3 @@
 # twitter-sentiment-analysis
-This program displays the recent tweets on twitter and on the basis of tweets it generates positive and negative tweet percentage using NLTK. Also there is a graph  to show percenage count
+This program is designed to find all the recent tweets of the recent past related to the topic searched for and accordingly analyse the tweets' sentiments, and hence, generate a graph indicating positive/negative trends.
+Further use : Can be further used to analyse the effect of Opinion articles/tweets etc. on Economy and the Stock Market.
